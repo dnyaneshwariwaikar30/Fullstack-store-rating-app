@@ -5,4 +5,4 @@
 - Backend: Express.js + PostgreSQL
 - Frontend: React.js
 - Auth: JWT
-- 
+  
